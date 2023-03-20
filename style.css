@@ -114,6 +114,7 @@ height: 400px;}
     flex-direction: column;
     text-align: justify;
     padding: 10px;
+    list-style:none;
     
 
 }
