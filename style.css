@@ -107,7 +107,8 @@ right: 1%;}
     display: flex;
 }
 #pic img{ width: 575px;
-height: 400px;}
+height: 400px;
+opacity: 50%;}
 
 #intro{
     display: flex;
